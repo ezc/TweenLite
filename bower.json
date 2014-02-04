@@ -6,7 +6,7 @@
         "name": "Jack Doyle",
         "url": "http://www.greensock.com/gsap-js/"
     },
-    "main": "./src/minified/TweenLite.min.js",
+    "main": "TweenLite.min.js",
     "dependencies": {
 
     }
